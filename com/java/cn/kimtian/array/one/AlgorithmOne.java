@@ -1,5 +1,7 @@
 package cn.kimtian.array.one;
 
+import cn.kimtian.Constants;
+
 import java.util.Scanner;
 
 /**
@@ -16,9 +18,9 @@ public class AlgorithmOne {
         int price = scanner.nextInt();
         System.out.println("请输入要猜的价格范围，以-分割");
         String range = scanner.next();
-        String nums[] = range.split("-");
+        String[] nums = range.split("-");
         //校验分割后的结果只允许为两个值，否则格式不通过
-        if (nums.length != 2) {
+        if (nums.length != Constants.TWO) {
             System.out.println("价格范围输入错误");
         }
         //比较左右两个值，哪个大哪个为heightPrice，哪个小哪个为lowPrice

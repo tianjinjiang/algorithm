@@ -136,5 +136,55 @@ public class MyArray {
         }
         elements[index] = element;
     }
+
+    /**
+     * 线性查找
+     *
+     * @param target 要查找的目标数字
+     */
+    public int linesrSearch(int target) {
+        //遍历数组
+        for (int i = 0; i < elements.length; i++) {
+            if (elements[i] == target) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    /**
+     * 二分法查找
+     *
+     * @param target 要查找的目标数字
+     */
+    public int dichotomySearch(int target) {
+        //记录开始位置
+        int begin = 0;
+        //记录结束位置
+        int end = elements.length - 1;
+        //记录中间位置
+        int mid = (begin + end) / 2;
+        //循环查找
+        while (true) {
+            //如果开始和结束元素相等，且不等于目标元素,则结束循环
+            if (begin == end && begin != target) {
+                return -1;
+            }
+            //判断中间的元素是不是要查找的元素
+            if (elements[mid] == target) {
+                return mid;
+            }
+            //中间这个元素不是要查的元素
+            else {
+                // 判断中间这个元素是不是比目标元素大
+                if (elements[mid] > target) {
+                    end = mid - 1;
+                } else {
+                    begin = mid + 1;
+                }
+                mid = (begin + end) / 2;
+            }
+        }
+    }
 }
 

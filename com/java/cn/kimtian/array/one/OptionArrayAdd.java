@@ -16,14 +16,14 @@ public class OptionArrayAdd {
         /**
          * 数组的长度是不可变的,如下面就指定了数组a的长度为5
          */
-        int a[] = new int[]{1, 2, 3, 4, 5};
+        int[] a = new int[]{1, 2, 3, 4, 5};
         // 快速查看数组中的元素
         System.out.println("原来的数组：" + Arrays.toString(a));
         //要新加的元素
         int addNum = 9;
 
         // 创建一个新的数组，长度是原数组长度+1
-        int newA[] = new int[a.length + 1];
+        int[] newA = new int[a.length + 1];
         // 把原数组中的元素复制到新数组中
         for (int i = 0; i < a.length; i++) {
             newA[i] = a[i];
