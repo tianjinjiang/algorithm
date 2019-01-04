@@ -5,42 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="311f66c3-d658-4eec-90f8-e8040fa7f2ec" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestLinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/queue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/queue/TestMyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/stack/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/stack/TestMyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/ShowAscii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/StudentEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/LoopNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestDoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestLoopNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/statci/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/statci/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/statci/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/Stack/StackOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/stack/StackOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/AlgorithmOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/AlgorithmOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/III.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/MyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/OptionArrayAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/OptionArrayAdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestMyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestMyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/array/one/MyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/array/one/MyArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/array/one/TestMyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/array/one/TestMyArray.class" afterDir="false" />
-=======
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/AddOneToNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/OptionArrayAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/OptionArrayDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestMyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/META-INF/algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/Stack/StackOne.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/array/one/AlgorithmOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/array/one/AlgorithmOne.class" afterDir="false" />
->>>>>>> 1feb3e878856595d9a521d320941eb39b4bc50a5
->>>>>>> 1bc99b95049f621062204411b77786e77dbaf0bd
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/array/one/III.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/array/one/TestMyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/array/one/TestMyArray.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,57 +34,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AlgorithmOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/AlgorithmOne.java">
+      <file leaf-file-name="DoubleNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/DoubleNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StackOne.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/stack/StackOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="114">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-=======
-<<<<<<< HEAD
-            <state relative-caret-position="36">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="23" />
-=======
-            <state relative-caret-position="361">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
->>>>>>> 1feb3e878856595d9a521d320941eb39b4bc50a5
->>>>>>> 1bc99b95049f621062204411b77786e77dbaf0bd
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OptionArrayAdd.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/OptionArrayAdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/sort/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="38" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="38" />
+            <state relative-caret-position="250">
+              <caret line="60" lean-forward="true" selection-end-line="68" />
+              <folding>
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1037#1038#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1134#1135#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,39 +56,92 @@
       <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="304">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/Node.java">
+      <file leaf-file-name="One.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/One.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="328">
+              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowAscii.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/ShowAscii.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="5" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentEnum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/StudentEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/statci/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestNode.java">
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="323">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestMyQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/queue/TestMyQueue.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/statci/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="8" column="3" selection-start-line="18" selection-start-column="10" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="190">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+              <folding>
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/sort/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="32" column="7" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="32" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDoubleNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestDoubleNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -168,37 +168,38 @@
       <list>
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/III.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/OneArray.java" />
-<<<<<<< HEAD
-=======
-        <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/AlgorithmOne.java" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/com/java/cn/kimtian/Stack/StackOne.java" />
-=======
->>>>>>> 1bc99b95049f621062204411b77786e77dbaf0bd
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/AddOneToNums.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/OptionArray.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/OptionArrayDelete.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestLinearSearch.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestDichotomySearch.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestArraySearch.java" />
-        <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestMyArray.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/MyArray.java" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/stack/MyStack.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/stack/TestMyStack.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/queue/MyQueue.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/queue/TestMyQueue.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/Node.java" />
-        <option value="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestNode.java" />
-        <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/AlgorithmOne.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/OptionArrayAdd.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestArray.java" />
-        <option value="$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/com/java/cn/kimtian/stack/StackOne.java" />
-=======
->>>>>>> 1feb3e878856595d9a521d320941eb39b4bc50a5
->>>>>>> 1bc99b95049f621062204411b77786e77dbaf0bd
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestMyArray.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/AlgorithmOne.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/statci/Dog.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestNode.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/Node.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/LoopNode.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestLoopNode.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/DoubleNode.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/statci/Test.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/One.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/Constants.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/ShowAscii.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/statci/Animal.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestDoubleNode.java" />
+        <option value="$PROJECT_DIR$/com/java/cn/kimtian/array/one/StudentEnum.java" />
       </list>
     </option>
   </component>
@@ -275,8 +276,16 @@
               <item name="array" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
             </path>
-<<<<<<< HEAD
-=======
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="kimtian" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
@@ -286,7 +295,24 @@
               <item name="kimtian" type="462c0819:PsiDirectoryNode" />
               <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
->>>>>>> 1feb3e878856595d9a521d320941eb39b4bc50a5
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="kimtian" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="kimtian" type="462c0819:PsiDirectoryNode" />
+              <item name="statci" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -295,20 +321,9 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546008124982" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.kimtian.linkedlist" />
       <recent name="cn.kimtian.array.queue" />
       <recent name="cn.kimtian.array.one" />
     </key>
@@ -325,19 +340,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kimtian.sort.BubbleSort" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.kimtian.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestDichotomySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kimtian.array.one.TestDichotomySearch" />
+  <component name="RunManager" selected="Application.StudentEnum">
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kimtian.array.one.One" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -346,8 +351,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestMyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kimtian.array.one.TestMyArray" />
+    <configuration name="ShowAscii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kimtian.array.one.ShowAscii" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -356,40 +361,50 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestMyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kimtian.array.queue.TestMyQueue" />
+    <configuration name="StudentEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kimtian.array.one.StudentEnum" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kimtian.array.queue.*" />
+          <option name="PATTERN" value="cn.kimtian.array.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestMyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kimtian.array.stack.TestMyStack" />
+    <configuration name="TestDoubleNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kimtian.linkedlist.TestDoubleNode" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kimtian.array.stack.*" />
+          <option name="PATTERN" value="cn.kimtian.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestLoopNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kimtian.linkedlist.TestLoopNode" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kimtian.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.TestMyArray" />
-      <item itemvalue="Application.TestDichotomySearch" />
-      <item itemvalue="Application.TestMyStack" />
-      <item itemvalue="Application.TestMyQueue" />
-      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.TestLoopNode" />
+      <item itemvalue="Application.TestDoubleNode" />
+      <item itemvalue="Application.One" />
+      <item itemvalue="Application.ShowAscii" />
+      <item itemvalue="Application.StudentEnum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.TestMyQueue" />
-        <item itemvalue="Application.TestMyStack" />
-        <item itemvalue="Application.TestMyArray" />
-        <item itemvalue="Application.TestDichotomySearch" />
+        <item itemvalue="Application.StudentEnum" />
+        <item itemvalue="Application.ShowAscii" />
+        <item itemvalue="Application.One" />
+        <item itemvalue="Application.TestDoubleNode" />
+        <item itemvalue="Application.TestLoopNode" />
       </list>
     </recent_temporary>
   </component>
@@ -403,30 +418,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545885721432</updated>
-<<<<<<< HEAD
-      <workItem from="1545885723057" duration="6515000" />
-=======
       <workItem from="1545885723057" duration="6200000" />
       <workItem from="1545982945625" duration="3844000" />
-<<<<<<< HEAD
-      <workItem from="1545993702050" duration="15795000" />
-=======
-      <workItem from="1545993702050" duration="7282000" />
->>>>>>> 1feb3e878856595d9a521d320941eb39b4bc50a5
->>>>>>> 1bc99b95049f621062204411b77786e77dbaf0bd
+      <workItem from="1545993702050" duration="28912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="25839000" />
-=======
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="6515000" />
-=======
-    <option name="totallyTimeSpent" value="17326000" />
->>>>>>> 1feb3e878856595d9a521d320941eb39b4bc50a5
->>>>>>> 1bc99b95049f621062204411b77786e77dbaf0bd
+    <option name="totallyTimeSpent" value="38956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="900" extended-state="0" />
@@ -439,14 +438,14 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.08354115" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29800498" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15147625" />
       <window_info anchor="bottom" id="Statistic" order="8" />
       <window_info anchor="bottom" id="Compute Code Lines" order="8" />
-      <window_info active="true" anchor="bottom" id="Inspection Results" visible="true" weight="0.5062344" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.24812968" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -475,7 +474,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -625,13 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestMyArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/queue/MyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -652,53 +644,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/AlgorithmOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/OptionArrayAdd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -709,99 +661,186 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/stack/StackOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-=======
-    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/Stack/StackOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="23" />
->>>>>>> 1bc99b95049f621062204411b77786e77dbaf0bd
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>algorithm</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/TestMyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/AlgorithmOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="775" column="10" lean-forward="true" selection-start-line="775" selection-start-column="10" selection-end-line="775" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/statci/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestLoopNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/LoopNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="61" column="29" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="61" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1581#1582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/DoubleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="60" lean-forward="true" selection-end-line="68" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/statci/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/One.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/statci/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/linkedlist/TestDoubleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/ShowAscii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/array/one/StudentEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
