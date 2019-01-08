@@ -4,9 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="311f66c3-d658-4eec-90f8-e8040fa7f2ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="311f66c3-d658-4eec-90f8-e8040fa7f2ec" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -354,7 +352,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -365,16 +363,15 @@
       <updated>1545885721432</updated>
       <workItem from="1545885723057" duration="6200000" />
       <workItem from="1545982945625" duration="3844000" />
-      <workItem from="1545993702050" duration="51209000" />
+      <workItem from="1545993702050" duration="52597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61253000" />
+    <option name="totallyTimeSpent" value="62641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -383,11 +380,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32917705" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.35785535" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32917705" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.35785535" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.08852868" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29653403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22143774" />
       <window_info anchor="bottom" id="Statistic" order="14" />
       <window_info anchor="bottom" id="Compute Code Lines" order="15" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.24812968" />
