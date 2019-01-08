@@ -36,5 +36,7 @@ public class TestMyArray {
 
 
         System.out.println(myArray.dichotomySearch(11111));
+        System.out.println("=======");
+        myArray.showElement();
     }
 }

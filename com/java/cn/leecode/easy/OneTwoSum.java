@@ -20,7 +20,7 @@ import java.util.Map;
  *
  * @author kimtian
  */
-public class One_TwoSum {
+public class OneTwoSum {
     public static void main(String[] args) {
         int[] nums = {-1, -5, -7, 90};
         System.out.println(Arrays.toString(twoSumTwo(nums, -8)));

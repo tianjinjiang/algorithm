@@ -1,5 +1,7 @@
 package cn.kimtian.normalalgorithm;
 
+import cn.kimtian.Constants;
+
 /**
  * 斐波那契数列
  *
@@ -13,7 +15,7 @@ public class TestFebonacci {
 
     public static int febonacci(int i) {
         //前两个值都是1
-        if (i <= 2) {
+        if (i <= Constants.TWO) {
             return 1;
         }
         //第三项开始为前两项的和

@@ -153,6 +153,23 @@ public class MyArray {
     }
 
     /**
+     * 显示数组的所有结点
+     */
+    public int showElement() {
+        System.out.print("[");
+        //遍历数组
+        for (int i = 0; i < elements.length; i++) {
+            if (i == elements.length - 1) {
+                System.out.print(elements[i]);
+            } else {
+                System.out.print(elements[i] + ",");
+            }
+        }
+        System.out.println("]");
+        return -1;
+    }
+
+    /**
      * 二分法查找
      *
      * @param target 要查找的目标数字
