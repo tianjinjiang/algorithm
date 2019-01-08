@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="311f66c3-d658-4eec-90f8-e8040fa7f2ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/normalalgorithm/TestFebonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/normalalgorithm/TestHanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/normalalgorithm/TestRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/tree/arraybinarytree/ArrayBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/java/cn/kimtian/tree/arraybinarytree/TestArrayBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/java/cn/kimtian/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/tree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/tree/TestBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/kimtian/tree/TestBinaryTree.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,8 +85,8 @@
       <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/sort/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="5" lean-forward="true" selection-end-line="37" />
+            <state relative-caret-position="190">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -376,12 +365,12 @@
       <updated>1545885721432</updated>
       <workItem from="1545885723057" duration="6200000" />
       <workItem from="1545982945625" duration="3844000" />
-      <workItem from="1545993702050" duration="50777000" />
+      <workItem from="1545993702050" duration="51209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60821000" />
+    <option name="totallyTimeSpent" value="61253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="900" extended-state="0" />
@@ -922,8 +911,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/java/cn/kimtian/sort/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="5" lean-forward="true" selection-end-line="37" />
+        <state relative-caret-position="190">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
