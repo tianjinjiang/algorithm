@@ -24,8 +24,9 @@ public class TestMyStack {
         System.out.println(myStack.peekStack());
         //查看栈是否为空
         System.out.println(myStack.isStackEmpty());
-        System.out.println(myStack.popStack());
-        System.out.println(myStack.popStack());
+//        System.out.println(myStack.popStack());
+//        System.out.println(myStack.popStack());
+        myStack.cleanStack();
         //查看栈是否为空
         System.out.println(myStack.isStackEmpty());
     }

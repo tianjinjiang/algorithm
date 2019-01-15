@@ -19,10 +19,18 @@ public class TreeNode {
      */
     TreeNode rightNode;
 
+    /**
+     * 标识左指针类型
+     */
+    int leftType;
+    /**
+     * 标识右指针类型
+     */
+    int rightType;
+
     public TreeNode(int value) {
         this.value = value;
     }
-
     public void setLeftNode(TreeNode leftNode) {
         this.leftNode = leftNode;
     }
@@ -30,7 +38,6 @@ public class TreeNode {
     public void setRightNode(TreeNode rightNode) {
         this.rightNode = rightNode;
     }
-
     /**
      * 先序遍历--递归思想
      */
@@ -194,5 +201,18 @@ public class TreeNode {
             parent.deleteTreeNode(i);
         }
 
+    }
+
+    /**
+     * 查找数的深度
+     */
+    public int findDepth() {
+        int maxDepth = 1;
+        //由于是完全二叉树，所以树的深度就是一直查找左结点的深度
+        while (leftNode != null) {
+            maxDepth++;
+            leftNode = leftNode.leftNode;
+        }
+        return maxDepth;
     }
 }

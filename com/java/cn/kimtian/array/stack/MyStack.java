@@ -1,7 +1,5 @@
 package cn.kimtian.array.stack;
 
-import java.util.Arrays;
-
 /**
  * 对栈的操作
  * 由于栈有先进后出的特性
@@ -16,6 +14,9 @@ public class MyStack {
      */
     int[] elements;
 
+    /**
+     * 初始化栈
+     */
     public MyStack() {
         elements = new int[0];
     }
@@ -59,6 +60,13 @@ public class MyStack {
         elements = newArr;
         // 返回栈顶元素
         return element;
+    }
+
+    /**
+     * 清空栈
+     */
+    public void cleanStack() {
+        elements = new int[0];
     }
 
     /**

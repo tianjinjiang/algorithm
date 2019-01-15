@@ -9,10 +9,12 @@ public class TestBinaryTree {
     public static void main(String[] args) {
         //创建一棵树
         BinaryTree binaryTree = new BinaryTree();
+        System.out.println("是否为空树：" + binaryTree.isNullTree());
         //创建一个根结点
         TreeNode root = new TreeNode(1);
         //将根结点赋给树
         binaryTree.setRoot(root);
+
         //创建一个子左结点
         TreeNode leftTwo = new TreeNode(2);
         //创建一个子右结点
@@ -22,14 +24,18 @@ public class TestBinaryTree {
         //给根的右结点赋值
         root.setRightNode(rightTwo);
         //第三层结点
-        TreeNode llThree = new TreeNode(4);
-        TreeNode lrThree = new TreeNode(5);
-        TreeNode rlThree = new TreeNode(6);
-        TreeNode rrThree = new TreeNode(7);
+        TreeNode llThree = new TreeNode(7);
+        TreeNode lrThree = new TreeNode(6);
+        TreeNode rlThree = new TreeNode(5);
+        TreeNode rrThree = new TreeNode(4);
+        TreeNode lllThree = new TreeNode(8);
         leftTwo.setLeftNode(llThree);
         leftTwo.setRightNode(lrThree);
         rightTwo.setLeftNode(rlThree);
         rightTwo.setRightNode(rrThree);
+        llThree.setLeftNode(lllThree);
+        binaryTree.levelShow(root);
+        System.out.println();
         //先序遍历
         binaryTree.frontShow();
         System.out.println();
@@ -40,13 +46,14 @@ public class TestBinaryTree {
         binaryTree.behindShow();
         System.out.println();
         System.out.println("====================");
+        System.out.println("树的深度是：" + binaryTree.treeDepth());
         //先序查找
         TreeNode result = binaryTree.frontSearch(5);
         System.out.println(result);
         System.out.println(result == lrThree);
         TreeNode result1 = binaryTree.frontSearch(10);
         System.out.println(result1);
-
+        System.out.println("是否为空树：" + binaryTree.isNullTree());
         System.out.println();
         System.out.println("====================");
         //中序查找
@@ -72,6 +79,5 @@ public class TestBinaryTree {
         //先序遍历
         binaryTree.frontShow();
         System.out.println();
-
     }
 }

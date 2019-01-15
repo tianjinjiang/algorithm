@@ -1,6 +1,4 @@
-package cn.leecode.easy;
-
-import org.omg.PortableInterceptor.INACTIVE;
+package cn.leetcode.easy;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -10,11 +8,8 @@ import java.util.Map;
  * 给定一个整数数组，返回两个数字的索引，使它们相加到特定目标。
  * <p>
  * 您可以假设每个输入只有一个解决方案，并且您可能不会两次使用相同的元素。
- * <p>
  * 例：
- * <p>
  * 鉴于nums = [2,7,11,15]，target = 9，
- * <p>
  * 因为nums [0] + nums [1] = 2 + 7 = 9，
  * 返回[0,1]。
  *

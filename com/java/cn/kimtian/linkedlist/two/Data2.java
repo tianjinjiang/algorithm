@@ -6,4 +6,7 @@ package cn.kimtian.linkedlist.two;
  * @author kimtian
  */
 public class Data2 {
+    String key;
+    String name;
+    int age;
 }
