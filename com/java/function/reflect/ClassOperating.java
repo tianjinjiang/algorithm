@@ -10,9 +10,9 @@ import java.lang.reflect.Method;
  */
 public class ClassOperating {
     /**
-     * 打印类的信息，包括类的成员函数和成员变量
+     * 打印类的信息，包括类的成员函数
      *
-     * @param object 该对象所属类的信息
+     * @param object 对象
      */
     public static void printClassMessage(Object object) {
         //要获取类的信息  首先要获取类的类类型
@@ -25,7 +25,6 @@ public class ClassOperating {
          * 一个成员方法就是一个Method对象
          * getMethods获取的是所有的public的函数，包括父类继承而来的
          * getDeclaredMethods获取的是所有该类自己声明的方法，不问访问权限（父类继承来的就没有了）
-         *
          */
         Method[] ms = c.getMethods();
         Method[] ms1 = c.getDeclaredMethods();
@@ -52,6 +51,8 @@ public class ClassOperating {
         }
 
     }
+
+
 
     public static void main(String[] args) {
         String s = "hello world";
