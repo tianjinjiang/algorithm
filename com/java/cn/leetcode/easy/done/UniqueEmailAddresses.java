@@ -1,4 +1,4 @@
-package cn.leetcode.easy;
+package cn.leetcode.easy.done;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -26,6 +26,8 @@ import java.util.Set;
  * How many different addresses actually receive mails? 
  *
  * @author kimtian
+ * @date 2019.01.16
+ * @num 929
  */
 public class UniqueEmailAddresses {
     /**

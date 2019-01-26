@@ -1,4 +1,4 @@
-package cn.leetcode.easy;
+package cn.leetcode.easy.done;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,6 +9,8 @@ import java.util.List;
  * An integer is a palindrome when it reads the same backward as forward.
  *
  * @author kimtian
+ * @date 2019.01.24
+ * @num 9
  */
 public class PalindromeNumber {
     /**

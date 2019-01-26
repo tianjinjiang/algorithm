@@ -1,4 +1,4 @@
-package cn.leetcode.easy;
+package cn.leetcode.easy.done;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -9,6 +9,8 @@ import java.util.Map;
  * Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
  *
  * @author kimtian
+ * @date 2019.01.25
+ * @num 136
  */
 public class SiingleNumber {
     /**

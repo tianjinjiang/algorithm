@@ -1,4 +1,4 @@
-package cn.leetcode.easy;
+package cn.leetcode.easy.done;
 
 
 /**
@@ -7,8 +7,10 @@ package cn.leetcode.easy;
  * 请注意，在购买之前不能出售股票。
  *
  * @author kimtian
+ * @date 2017.01.23
+ * @num 121
  */
-public class MaxProfit {
+public class Best_Time_to_Buy_and_Sell_Stock {
     /**
      * 最大利润
      *

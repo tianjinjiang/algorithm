@@ -1,4 +1,4 @@
-package cn.leetcode.easy;
+package cn.leetcode.easy.done;
 
 /**
  * You're given strings J representing the types of stones that are jewels,
@@ -22,6 +22,8 @@ package cn.leetcode.easy;
  * The characters in J are distinct.
  *
  * @author kimtian
+ * @date 2019.01.14
+ * @num 771
  */
 public class JewelsAndStones {
     public static int numJewelsInStones(String J, String S) {

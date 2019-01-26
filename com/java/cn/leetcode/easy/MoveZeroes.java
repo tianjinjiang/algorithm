@@ -45,6 +45,7 @@ public class MoveZeroes {
      * 并在此基础上优化，减少外层循环次数，有几个0只需要循环几次。
      *
      * @param nums
+     * @date
      */
     public static void moveZeroes(int[] nums) {
         //创建一个变量记录数组中值为0的个数
@@ -97,6 +98,12 @@ public class MoveZeroes {
                 nums[j] = 0;
             }
         }
+    }
+    public String toLowerCase(String str) {
+        if (str != null && str.length() > 0) {
+            return str.toLowerCase();
+        }
+        return str;
     }
 
     /**

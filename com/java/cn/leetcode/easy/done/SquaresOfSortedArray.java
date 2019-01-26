@@ -1,4 +1,4 @@
-package cn.leetcode.easy;
+package cn.leetcode.easy.done;
 
 import java.util.Arrays;
 
@@ -7,6 +7,8 @@ import java.util.Arrays;
  * return an array of the squares of each number, also in sorted non-decreasing order.
  *
  * @author kimtian
+ * @date 2019.01.21
+ * @num 977
  */
 public class SquaresOfSortedArray {
     /**
