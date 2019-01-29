@@ -1,5 +1,7 @@
 package cn.kimtian.array.queue;
 
+import java.util.Arrays;
+
 /**
  * 队列的操作
  *
@@ -61,5 +63,12 @@ public class MyQueue {
      */
     public boolean isQueueEmpty() {
         return elements.length == 0;
+    }
+
+    /**
+     * 展示队列的所有元素
+     */
+    public void showQueue() {
+        System.out.println(Arrays.toString(elements));
     }
 }

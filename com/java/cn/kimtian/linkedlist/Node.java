@@ -12,10 +12,14 @@ public class Node {
      */
     private int data;
 
+    public void setData(int data) {
+        this.data = data;
+    }
+
     /**
      * 下一个结点
      */
-    Node next;
+    public Node next;
 
     /**
      * 创建结点的时候，给一个value

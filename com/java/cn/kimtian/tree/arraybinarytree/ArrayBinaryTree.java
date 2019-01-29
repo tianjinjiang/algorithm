@@ -1,5 +1,7 @@
 package cn.kimtian.tree.arraybinarytree;
 
+import cn.kimtian.Constants;
+
 /**
  * 顺序存储的二叉树
  *
@@ -27,11 +29,11 @@ public class ArrayBinaryTree {
         //先遍历当前结点的内容
         System.out.print(data[index] + " ");
         //处理左子结点
-        if (2 * index + 1 < data.length) {
+        if (Constants.TWO * index + 1 < data.length) {
             frontShow(2 * index + 1);
         }
         //处理右子结点
-        if (2 * index + 2 < data.length) {
+        if (Constants.TWO * index + Constants.TWO < data.length) {
             frontShow(2 * index + 2);
         }
     }
@@ -53,13 +55,13 @@ public class ArrayBinaryTree {
             return;
         }
         //处理左子结点
-        if (2 * index + 1 < data.length) {
+        if (Constants.TWO * index + 1 < data.length) {
             middleShow(2 * index + 1);
         }
         //先遍历当前结点的内容
         System.out.print(data[index] + " ");
         //处理右子结点
-        if (2 * index + 2 < data.length) {
+        if (Constants.TWO * index + Constants.TWO < data.length) {
             middleShow(2 * index + 2);
         }
     }
@@ -81,11 +83,11 @@ public class ArrayBinaryTree {
             return;
         }
         //处理左子结点
-        if (2 * index + 1 < data.length) {
+        if (Constants.TWO * index + 1 < data.length) {
             behindShow(2 * index + 1);
         }
         //处理右子结点
-        if (2 * index + 2 < data.length) {
+        if (Constants.TWO * index + Constants.TWO < data.length) {
             behindShow(2 * index + 2);
         }
         //先遍历当前结点的内容

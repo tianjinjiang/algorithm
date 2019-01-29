@@ -1,4 +1,8 @@
+<<<<<<< HEAD:com/java/cn/leecode/easy/One_TwoSum.java
 package cn.leecode.easy;
+=======
+package cn.leetcode.easy;
+>>>>>>> d2cd07704b59d11cb8b8d198c7b723dc6b35fe55:com/java/cn/leetcode/easy/OneTwoSum.java
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -14,7 +18,7 @@ import java.util.Map;
  *
  * @author kimtian
  */
-public class One_TwoSum {
+public class OneTwoSum {
     public static void main(String[] args) {
         int[] nums = {-1, -5, -7, 90};
         System.out.println(Arrays.toString(twoSumTwo(nums, -8)));
