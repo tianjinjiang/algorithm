@@ -1,4 +1,4 @@
-package cn.leetcode.easy.done;
+package cn.leetcode.medium.done;
 
 /**
  * Given an array A of integers, a ramp is a tuple (i, j) for which i < j and A[i] <= A[j].  The width of such a ramp is j - i.

@@ -1,30 +1,8 @@
-package cn.leetcode.easy;
+package cn.leetcode.easy.done;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-/**
- * 中文：
- 给定一个数组nums，写一个函数将所有0移动到它的末尾，同时保持非零元素的相对顺序。
- Example:
- Input: [0,1,0,3,12]
- Output: [1,3,12,0,0]
- 注意：
- 您必须就地执行此操作，而无需复制阵列。
- 最小化操作总数
- */
-/**
- *
- 英文：
- Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
- Example:
- Input: [0,1,0,3,12]
- Output: [1,3,12,0,0]
- Note:
- You must do this in-place without making a copy of the array.
- Minimize the total number of operations.
- */
-
 /**
  * Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
  * Example:
@@ -35,6 +13,8 @@ import java.util.List;
  * Minimize the total number of operations.
  *
  * @author kimtian
+ * @date 2019.01.27
+ * @num 283
  */
 public class MoveZeroes {
     /**
@@ -98,12 +78,6 @@ public class MoveZeroes {
                 nums[j] = 0;
             }
         }
-    }
-    public String toLowerCase(String str) {
-        if (str != null && str.length() > 0) {
-            return str.toLowerCase();
-        }
-        return str;
     }
 
     /**
