@@ -1,74 +1,54 @@
-package cn.leetcode.easy;
+package cn.leetcode.easy.done;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 中文：
- * 自分割数是一个可被其包含的每个数字整除的数字。
- * 例如，128是自分割数，因为128％1 == 0,128％2 == 0，128％8 == 0。
- * 此外，不允许自分割数包含数字零。
- * 给定数字的下限和上限，输出每个可能的自划分数的列表，如果可能，包括边界。
- * <p>
- * Example 1:
- * Input:
- * left = 1, right = 22
- * Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 22]
- * <p>
- * 注意：
- * 每个输入参数的边界是1 <= left <= right <= 10000。
- * <p>
- * 英文：
  * A self-dividing number is a number that is divisible by every digit it contains.
  * For example, 128 is a self-dividing number because 128 % 1 == 0, 128 % 2 == 0, and 128 % 8 == 0.
  * Also, a self-dividing number is not allowed to contain the digit zero.
- * Given a lower and upper number bound, output a list of every possible self dividing number, including the bounds if possible.
- * <p>
- * Example 1:
- * Input:
- * left = 1, right = 22
- * Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 22]
- * <p>
- * Note:
- * The boundaries of each input argument are 1 <= left <= right <= 10000.
- * A self-dividing number is a number that is divisible by every digit it contains.
- * For example, 128 is a self-dividing number because 128 % 1 == 0, 128 % 2 == 0, and 128 % 8 == 0.
- * Also, a self-dividing number is not allowed to contain the digit zero.
- * Given a lower and upper number bound, output a list of every possible self dividing number, including the bounds if possible.
- * <p>
- * Example 1:
- * Input:
- * left = 1, right = 22
- * Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 22]
- * <p>
- * Note:
- * The boundaries of each input argument are 1 <= left <= right <= 10000.
+ * Given a lower and upper number bound, output a list of every possible self dividing number,
+ * including the bounds if possible.
+ *
+ * @author kimtian
+ * @date 2019.01.29
+ * @num 728题
  */
 public class SelfDividingNumbers {
     public static List<Integer> selfDividingNumbers(int left, int right) {
+        //创建一个存放返回自我分割数的结果集
         List<Integer> returnList = new ArrayList<>();
+        //循环在left-right范围中的每一个数字
         for (int i = left; i <= right; i++) {
-            List<Integer> aaa = new ArrayList<>();
+            //存放数字的每一位的集合。每个数字对应一个新的集合
+            List<Integer> selefDivide = new ArrayList<>();
+            //初始标识为true
             boolean flag = true;
+            //将i赋值给z
             int z = i;
+            //将i的每一位放入selefDivide集合中
             while (z > 0) {
+                //如果是带0的数，则不可能为自我分割数，跳出循环
                 if (z % 10 == 0) {
                     flag = false;
                     z = -1;
                     break;
                 }
-                aaa.add(z % 10);
+                //每次取其和十的余数
+                selefDivide.add(z % 10);
+                //每次把最小位数丢弃
                 z = z / 10;
             }
-            for (int s : aaa) {
+            //循环整除其每一位数字，如果不能整除，则不为自我分割数
+            for (int s : selefDivide) {
                 if (i % s != 0) {
                     flag = false;
                 }
             }
+            //如果可以整除，将其放入返回结果集中
             if (flag == true) {
                 returnList.add(i);
             }
-
         }
         return returnList;
     }
@@ -82,22 +62,35 @@ public class SelfDividingNumbers {
     }
 
     public static List<Integer> selfDividingNumbers2(int left, int right) {
+        //创建一个存放返回自我分割数的结果集
         List<Integer> returnList = new ArrayList<>();
+        //循环在left-right范围中的每一个数字
         for (int i = left; i <= right; i++) {
+            //判断是否是自我分割数
             if (selfDividing(i)) {
+                //是的话，加入返回结果集中
                 returnList.add(i);
             }
         }
         return returnList;
     }
 
+    /**
+     * 判断是不是自身分割数
+     *
+     * @param i 待判断的数字
+     * @return 是否是自身分割数
+     */
     public static boolean selfDividing(int i) {
+        //将int型数据的每一位进行拆分
         for (char c : String.valueOf(i).toCharArray()) {
+            //如果有一位是0或者不能被自身整除，则返回false
             if (c == '0' || (i % (c - '0')) > 0) {
                 return false;
             }
 
         }
+        //否则返回true
         return true;
     }
 }
