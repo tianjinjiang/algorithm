@@ -1,4 +1,4 @@
-package cn.leecode.easy;
+package cn.leetcode.easy.done;
 
 /**
  * Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.
@@ -6,6 +6,8 @@ package cn.leecode.easy;
  * Note: A word is defined as a character sequence consists of non-space characters only.
  *
  * @author kimtian
+ * @date 2019.01.15
+ * @num 58
  */
 public class Length_of_last_word {
 
@@ -28,6 +30,7 @@ public class Length_of_last_word {
 
     /**
      * 测试输入结果，符合预期
+     *
      * @param args
      */
     public static void main(String[] args) {
@@ -38,3 +41,4 @@ public class Length_of_last_word {
         System.out.println(lengthOfLastWord("oooooooo"));
     }
 }
+
