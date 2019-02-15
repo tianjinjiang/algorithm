@@ -9,19 +9,21 @@ public class TreeNode {
     /**
      * 树里面的值，结点的权
      */
-    int value;
+   public int value;
     /**
      * 左儿子
      */
-    TreeNode leftNode;
+    public TreeNode leftNode;
     /**
      * 右儿子
      */
-    TreeNode rightNode;
+    public TreeNode rightNode;
 
     /**
      * 标识左指针类型
      */
+
+
     int leftType;
     /**
      * 标识右指针类型
