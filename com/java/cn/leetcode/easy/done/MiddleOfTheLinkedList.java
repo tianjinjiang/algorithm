@@ -8,7 +8,7 @@ import cn.kimtian.linkedlist.Node;
  *
  * @author kimtian
  * @date 2019.02.13
- * @num 390
+ * @num 876
  */
 public class MiddleOfTheLinkedList {
     /**

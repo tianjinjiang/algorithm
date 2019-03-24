@@ -9,10 +9,11 @@ package cn.leetcode.difficult;
  */
 public class Four {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        merge(nums1, nums2);
+        //merge(nums1, nums2);
         if ((nums1.length + nums2.length) % 2 != 0) {
 
         }
+        return 0;
     }
 
     /**
