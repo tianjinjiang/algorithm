@@ -18,6 +18,7 @@ public class Best_Time_to_Buy_and_Sell_Stock {
      * @return 最大利润
      */
     public static int maxProfit2(int[] prices) {
+        if(1==1) System.out.println("11");
         //设定初始最大利润
         int maxProfit = 0;
         //初始化数组的最大值
